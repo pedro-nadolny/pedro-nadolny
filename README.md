@@ -10,7 +10,7 @@
 
 I'm an iOS Engineer based in Curitiba, Brazil 🇧🇷 (*btw it's not me in the photo, it's my beautiful Mei Li 🐶*)
 
-<img src= "https://user-images.githubusercontent.com/6202579/182386811-1685629e-8571-4b2d-87ef-29ce76c84784.png" height="200px">
+<img src= "https://user-images.githubusercontent.com/6202579/182463265-4f1e2b7f-1966-4b3c-9766-d8eb5dca8102.gif" height="200px">
 
 - Checkout [my blog](https://pedro-nadolny.github.io/) 📝
 - If you wish to support me (don't know why you would), [but me a coffe!](https://www.buymeacoffee.com/pedronadolny) ☕
