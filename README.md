@@ -48,3 +48,5 @@ Biggest crypto exchange in LatAm. *Making crypto useful*. [bitso.com](https://bi
 
 ### 📈 A few stats for curiosity
 [![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedro-nadolny&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+> *Remember to look up at the stars and not down at your feet*, Stephen Hawking
