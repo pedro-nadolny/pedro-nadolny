@@ -14,7 +14,7 @@ I'm an iOS Engineer based in Curitiba, Brazil 🇧🇷 (*btw it's not me in the 
 
 ### :memo: Blog 
 
-Checkout [my blog](https://pedro-nadolny.github.io/)  for content related to swift and iOS development in general (*more content soon*).
+Checkout [my blog](https://pedro-nadolny.github.io/)  for content related to swift and iOS development in general (*more content soon* 🤞).
 
 ### :coffee: Coffee 
 
