@@ -26,7 +26,7 @@ I'm an iOS Engineer based in Curitiba, Brazil 🇧🇷 (*btw it's not me in the 
   <a href="https://apps.apple.com/br/app/picpay-conta-pix-e-cart%C3%A3o/id561524792">
     <img width="50px" src="https://user-images.githubusercontent.com/6202579/182293548-78de5eaa-b0eb-41e2-b740-2789f6b5b7c9.png">
   </a>
-  <a href="https://apps.apple.com/br/app/picpay-conta-pix-e-cart%C3%A3o/id561524792">
+  <a href="https://apps.apple.com/br/app/james-delivery-de-comida-e/id1101214179">
     <img width="50px" src="https://user-images.githubusercontent.com/6202579/182294233-19702cc4-07a2-4a6c-94ce-08ab8d1ede04.png">
   </a>
   <a href="https://apps.apple.com/br/app/banco-next-conta-e-cart%C3%A3o/id1133682678">
