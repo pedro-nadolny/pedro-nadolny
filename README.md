@@ -1,6 +1,6 @@
-## Hello there :wave:
+![Untitled](https://user-images.githubusercontent.com/6202579/182296569-d7c77966-ccbd-4f52-88f3-b130b6505e8b.png)
 
-I'm Pedro! iOS Engineer based in Curitiba, Brazil 🇧🇷
+Hi there :wave: I'm Pedro! iOS Engineer based in Curitiba, Brazil 🇧🇷 (*btw it's not me in the photo, it's my beautiful Mei Li 🐶*)
 
 #### :memo: Blog 
 
@@ -8,7 +8,7 @@ Checkout [my blog](https://pedro-nadolny.github.io/)  for content related to swi
 
 #### :coffee: Coffee 
 
-If for whatever reason you want to buy me a cooffe you can do it [here](https://www.buymeacoffee.com/pedronadolny)! Many thanks, my developer hearth will be warmer! 
+If for whatever reason you want to buy me a coffee you can do it [here](https://www.buymeacoffee.com/pedronadolny)! Many thanks, my developer hearth will be warmer! 
 
 #### :astronaut: Currently a Bitsonaut at [@bitsoex](https://github.com/bitsoex) 
 Biggest crypto exchange in LatAm. *Making crypto useful*. 📈
@@ -37,3 +37,6 @@ Biggest crypto exchange in LatAm. *Making crypto useful*. 📈
     <img width="50px" src="https://user-images.githubusercontent.com/6202579/182292971-963fb065-82db-4fc9-a824-6d28081002bd.png">
   </a>
 </span>
+
+#### 📈 A few stats 
+[![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedro-nadolny)](https://github.com/anuraghazra/github-readme-stats)
