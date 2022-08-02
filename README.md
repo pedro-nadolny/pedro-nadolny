@@ -12,23 +12,14 @@ I'm an iOS Engineer based in Curitiba, Brazil 🇧🇷 (*btw it's not me in the 
 
 <img src= "https://user-images.githubusercontent.com/6202579/182386811-1685629e-8571-4b2d-87ef-29ce76c84784.png" height="200px">
 
-### :memo: Blog 
-
-Checkout [my blog](https://pedro-nadolny.github.io/)  for content related to swift and iOS development in general (*more content soon* 🤞).
-
-### :coffee: Coffee 
-
-If for whatever reason you want to buy me a coffee you can do it [here](https://www.buymeacoffee.com/pedronadolny)! Many thanks, my developer hearth will be warmer! 
-
-### :astronaut: Currently a Bitsonaut at [@bitsoex](https://github.com/bitsoex) 
-Biggest crypto exchange in LatAm. *Making crypto useful*. [bitso.com](https://bitso.com/) 💪
-
-<a href="https://apps.apple.com/br/app/bitso-%C3%A9-f%C3%A1cil-comprar-bitcoin/id1292836438">
-  <img width="100px" src="https://user-images.githubusercontent.com/6202579/182296114-5cce7b11-5f75-4160-a5a0-c811d6fbe77b.png">
-</a>
-
-### :computer: Other places I've worked
+- Checkout [my blog](https://pedro-nadolny.github.io/) 📝
+- If you wish to support me (don't know why you would), [but me a coffe!](https://www.buymeacoffee.com/pedronadolny)! ☕
+- Currently working at [@bitsoex](https://github.com/bitsoex) :astronaut:
+- A few places I've worked 👨‍💻
 <span>
+  <a href="https://apps.apple.com/br/app/bitso-%C3%A9-f%C3%A1cil-comprar-bitcoin/id1292836438">
+    <img width="50px" src="https://user-images.githubusercontent.com/6202579/182296114-5cce7b11-5f75-4160-a5a0-c811d6fbe77b.png">
+  </a>
   <a href="https://apps.apple.com/br/app/mercado-livre-compras-online/id463624852">
     <img width="50px" src="https://user-images.githubusercontent.com/6202579/182292286-2034a967-22bd-498b-b08f-a7fa8ab685e4.png">
   </a>
@@ -46,7 +37,4 @@ Biggest crypto exchange in LatAm. *Making crypto useful*. [bitso.com](https://bi
   </a>
 </span>
 
-### 📈 A few stats for curiosity
-[![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedro-nadolny&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-> 🪐 *Remember to look up at the stars and not down at your feet*, Stephen Hawking 
+[![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedro-nadolny&count_private=true&theme=radical)](https://github.com/pedro-nadolny)
