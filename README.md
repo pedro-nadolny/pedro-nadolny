@@ -1,6 +1,8 @@
-![Untitled](https://user-images.githubusercontent.com/6202579/182296569-d7c77966-ccbd-4f52-88f3-b130b6505e8b.png)
+![](https://komarev.com/ghpvc/?username=your-github-username)
 
 Hi there :wave: I'm Pedro! iOS Engineer based in Curitiba, Brazil 🇧🇷 (*btw it's not me in the photo, it's my beautiful Mei Li 🐶*)
+
+![Untitled](https://user-images.githubusercontent.com/6202579/182296569-d7c77966-ccbd-4f52-88f3-b130b6505e8b.png)
 
 #### :memo: Blog 
 
@@ -39,3 +41,6 @@ Biggest crypto exchange in LatAm. *Making crypto useful*. [bitso.com](https://bi
 
 #### 📈 A few stats for curiosity
 [![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedro-nadolny&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+#### Contacts
+[Linkedin](https://www.linkedin.com/in/pedronadolny/) | [Email](mailto://pedro.nadolny@gmail.com)
