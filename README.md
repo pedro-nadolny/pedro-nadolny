@@ -2,6 +2,7 @@
   <a href="https://pedro-nadolny.github.io/"><img src="https://img.shields.io/static/v1?label=Blog&message=code%26coffee&color=dd44dd"></a>
   <a href="https://www.buymeacoffee.com/pedronadolny"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" height="20px"></a>
   <a href="https://linkedin.com/in/pedronadolny/"><img src="https://img.shields.io/static/v1?logo=linkedin&label=%20&style=social&message=Linkedin"></a>
+  <a href="mailto:pedro.nadolny@gmail.com"><img src="https://img.shields.io/static/v1?logo=gmail&label=%20&style=social&message=Email"></a>
 </span>
 
 <img src="https://komarev.com/ghpvc/?username=your-github-username&color=brightgreen">
