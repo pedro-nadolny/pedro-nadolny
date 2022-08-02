@@ -8,8 +8,7 @@
 <h3 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="25px">, my name is Pedro Nadolny,</h3>
 
 I'm an iOS Engineer based in Curitiba, Brazil 🇧🇷 (*btw it's not me in the photo, it's my beautiful Mei Li 🐶*)
-
-![Untitled](https://user-images.githubusercontent.com/6202579/182296569-d7c77966-ccbd-4f52-88f3-b130b6505e8b.png)
+![image](https://user-images.githubusercontent.com/6202579/182386811-1685629e-8571-4b2d-87ef-29ce76c84784.png)
 
 ### :memo: Blog 
 
