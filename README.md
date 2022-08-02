@@ -4,9 +4,7 @@
   <a href="https://linkedin.com/in/pedronadolny/"><img src="https://img.shields.io/static/v1?logo=linkedin&label=%20&style=social&message=Linkedin"></a>
   <a href="mailto:pedro.nadolny@gmail.com"><img src="https://img.shields.io/static/v1?logo=gmail&label=%20&style=social&message=Email"></a>
 </span>
-
 <img src="https://komarev.com/ghpvc/?username=your-github-username&color=brightgreen">
-
 <h3 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="25px">, my name is Pedro Nadolny,</h3>
 
 I'm an iOS Engineer based in Curitiba, Brazil 🇧🇷 (*btw it's not me in the photo, it's my beautiful Mei Li 🐶*)
