@@ -37,4 +37,6 @@ I'm an iOS Engineer based in Curitiba, Brazil 🇧🇷 (*btw it's not me in the 
   </a>
 </span>
 
+### 
+
 [![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedro-nadolny&count_private=true&theme=radical)](https://github.com/pedro-nadolny)
