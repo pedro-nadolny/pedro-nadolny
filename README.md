@@ -1,6 +1,13 @@
-![](https://komarev.com/ghpvc/?username=your-github-username&color=brightgreen)
+<span>
+  <img src="https://img.shields.io/static/v1?logo=linkedin&label=%20&style=social&message=Linkedin&link=https://linkedin.com/in/pedronadolny/">
+  <a href="https://www.buymeacoffee.com/pedronadolny"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" height="20px"></a>
+</span>
 
-Hi there :wave: I'm Pedro! iOS Engineer based in Curitiba, Brazil 🇧🇷 (*btw it's not me in the photo, it's my beautiful Mei Li 🐶*)
+<img src="https://komarev.com/ghpvc/?username=your-github-username&color=brightgreen">
+
+<h3 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="25px">, my name is Pedro Nadolny,</h3>
+
+I'm an iOS Engineer based in Curitiba, Brazil 🇧🇷 (*btw it's not me in the photo, it's my beautiful Mei Li 🐶*)
 
 ![Untitled](https://user-images.githubusercontent.com/6202579/182296569-d7c77966-ccbd-4f52-88f3-b130b6505e8b.png)
 
