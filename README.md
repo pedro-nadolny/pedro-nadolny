@@ -11,8 +11,7 @@ Checkout [my blog](https://pedro-nadolny.github.io/)  for content related to swi
 If for whatever reason you want to buy me a coffee you can do it [here](https://www.buymeacoffee.com/pedronadolny)! Many thanks, my developer hearth will be warmer! 
 
 #### :astronaut: Currently a Bitsonaut at [@bitsoex](https://github.com/bitsoex) 
-Biggest crypto exchange in LatAm. *Making crypto useful*. 📈
-[bitso.com](https://bitso.com/)
+Biggest crypto exchange in LatAm. *Making crypto useful*. [bitso.com](https://bitso.com/) 💪
 
 <a href="https://apps.apple.com/br/app/bitso-%C3%A9-f%C3%A1cil-comprar-bitcoin/id1292836438">
   <img width="100px" src="https://user-images.githubusercontent.com/6202579/182296114-5cce7b11-5f75-4160-a5a0-c811d6fbe77b.png">
@@ -38,5 +37,5 @@ Biggest crypto exchange in LatAm. *Making crypto useful*. 📈
   </a>
 </span>
 
-#### 📈 A few stats 
-[![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedro-nadolny)](https://github.com/anuraghazra/github-readme-stats)
+#### 📈 A few stats for curiosity
+[![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedro-nadolny&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
