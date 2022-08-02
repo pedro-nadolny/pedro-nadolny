@@ -1,7 +1,7 @@
 <span>
-  <img src="https://img.shields.io/static/v1?label=blog&message=code%26coffee&link=https://pedro-nadolny.github.io/">
+  <a href="https://pedro-nadolny.github.io/"><img src="https://img.shields.io/static/v1?label=blog&message=code%26coffee"></a>
   <a href="https://www.buymeacoffee.com/pedronadolny"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" height="20px"></a>
- <img src="https://img.shields.io/static/v1?logo=linkedin&label=%20&style=social&message=Linkedin&link=https://linkedin.com/in/pedronadolny/">
+  <a href="https://linkedin.com/in/pedronadolny/"><img src="https://img.shields.io/static/v1?logo=linkedin&label=%20&style=social&message=Linkedin"></a>
 </span>
 
 <img src="https://komarev.com/ghpvc/?username=your-github-username&color=brightgreen">
