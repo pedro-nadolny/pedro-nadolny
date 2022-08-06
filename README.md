@@ -4,7 +4,7 @@
   <a href="https://linkedin.com/in/pedronadolny/"><img src="https://img.shields.io/static/v1?logo=linkedin&label=%20&style=social&message=Linkedin"></a>
   <a href="mailto:pedro.nadolny@gmail.com"><img src="https://img.shields.io/static/v1?logo=gmail&label=%20&style=social&message=Email"></a>
 </span>
-<img src="https://komarev.com/ghpvc/?username=your-github-username&color=brightgreen">
+<img src="https://komarev.com/ghpvc/?username=pedro-nadolny&color=brightgreen">
 
 <h3 align="left">Hi <img src="https://user-images.githubusercontent.com/6202579/182463561-238370cf-4fac-4419-94e2-f0b9fe65e779.gif" height="25px">, my name is Pedro Nadolny,</h3>
 
