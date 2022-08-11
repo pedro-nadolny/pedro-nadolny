@@ -12,7 +12,7 @@ I'm an iOS Engineer based in Curitiba, Brazil 🇧🇷 (*btw it's not me in the 
 
 <img src= "https://user-images.githubusercontent.com/6202579/182386811-1685629e-8571-4b2d-87ef-29ce76c84784.png" height="200px">
 
-- Checkout [my blog](https://pedro-nadolny.github.io/) 📝
+- Check out [my blog](https://pedro-nadolny.github.io/) 📝
 - If you wish to support me (don't know why you would), [buy me a coffe!](https://www.buymeacoffee.com/pedronadolny) ☕
 - Currently working at [@bitsoex](https://github.com/bitsoex) :astronaut:
 - A few places I've worked 👨‍💻
