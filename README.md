@@ -14,7 +14,7 @@ I'm an iOS Engineer based in Curitiba, Brazil 🇧🇷 (*btw it's not me in the 
 
 - Check out [my blog](https://pedro-nadolny.github.io/) 📝
 - If you wish to support me (don't know why you would), [buy me a coffe!](https://www.buymeacoffee.com/pedronadolny) ☕
-- Currently working at [@bitsoex](https://github.com/bitsoex) :astronaut:
+- Currently working at [@LiquidText](https://github.com/LiquidText) :astronaut:
 - A few places I've worked 👨‍💻
 <span>
   <a href="https://apps.apple.com/br/app/bitso-%C3%A9-f%C3%A1cil-comprar-bitcoin/id1292836438">
